@@ -1,7 +1,7 @@
 ## Hi everyone <img width="25px" height="25px" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gifg">
 
 ### Welcome to my Github profile! 👋
-I'am Pulkit Gupta, a Software Developer. I am currently studying Electronics and Communication Engineering at IIIT Allahabad and I am passionate about web development, competitive programming and machine learning.
+I'm Pulkit Gupta, a Software Developer. I am currently studying Electronics and Communication Engineering at IIIT Allahabad and I am passionate about web development, competitive programming and machine learning.
 
 ### [![Resume](https://img.shields.io/badge/-Resume-4285F4?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1y-In5f_xP7MpW94GEWbi2f2XM9BzY3Jq/view)
 
